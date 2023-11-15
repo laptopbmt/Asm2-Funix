@@ -109,6 +109,11 @@ ul {
 .ic-tools-2 {
   font-size: 50px;
 }
+.icon_hobbies {
+  display: flex;
+  gap: 15px;
+  text-align: center;
+}
 .ic-megaphone,
 .ic-strategy,
 .ic-hotairballoon,
